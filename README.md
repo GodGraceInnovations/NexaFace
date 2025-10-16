@@ -13,10 +13,10 @@
 
 ### 🧠 2. Analysis & Decision Making
 - Read and extract text, numbers, or structured data from a page  
-- Detect page layout changes (using MutationObserver or DOM checks)  
+- Detect page layout changes 
 - Analyze website content for keywords, patterns, or data insights  
 - Identify specific users, products, or posts  
-- Decide what actions to take next (based on AI logic or rules)  
+- Decide what actions to take next (based on rules) 
 
 ### 📊 3. Data & Automation
 - Crawl and store website data (scraping)  
@@ -39,7 +39,7 @@
 - Interact with APIs or web services directly  
 
 ### 🔒 6. Control & Safety
-- Run in headless or visible mode (browser control)  
+- Runs in headless mode
 - Detect bot-blocking or anti-scraping systems  
 - Manage multiple browser profiles or sessions  
 - Proxy and IP rotation support  
